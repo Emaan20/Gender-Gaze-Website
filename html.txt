@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Health Disparities</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link id="link" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="/CSS/article1.css">
+    <link rel="stylesheet" href="/CSS/nav.css">
+    <script src="https://cdn-script.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
+
+</head>
+<body>
+    <header>
+       
+        <h3><a href="home.html">Gender Gaze</a></h3>
+    
+    </header>
+    
+    <section>
+
+        <i id="icon" class="fa-solid fa-bars"></i>
+        <div class="sidebar">
+            <i id="close" class="fa-solid fa-xmark"></i>
+            <ul>
+                <li><a href="/Website/home.html">Home</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="/HTML/articles.html">Articles</a></li>
+            </ul>
+        </div>
+
+    <h1>Mental Health Disparities</h1>
+    <h3>Exploring the Gender Gap</h3>
+
+    <div class="image-container">
+    <img src="../Assets/Zaina Ahmed.png" alt="">
+    </div>
+    
+    <article>
+        <p>The haunting echo of 'Boys don't cry' serves as a reminder of society's cruel decree that denies emotional expression to boys, suffocating sensitivity within masculinity. In a world where emotional expression is restricted, it is essential to explore the mental health divide between genders in Pakistan and work towards creating a society that embraces the emotional well-being of all. This piece not only probes into Pakistan's mental health disparities but also draws from insightful one-on-one interviews with field experts, offering valuable perspectives.</p>
+        <p>20 million Pakistanis, 10% of the population. This is the approximate number of people affected by mental disorders in Pakistan. Aligning with global trends, women in Pakistan bear a disproportionate burden, experiencing higher rates of depression, anxiety, and eating disorders. A study carried out in the villages of Chitral revealed that the prevalence of anxiety and depression amongst women was 46% in comparison to males who had a 15% prevalence. Other studies have shown Pakistani women to be at a higher risk of suicide.</p>
+        <p>What drives the tides of mental well-being? Genes play a significant role in shaping these differences, influencing thoughts, emotions, and behaviour. Certain genes may make women more susceptible to feeling down compared to males. In men, feelings of isolation or melancholy may be linked to specific proteins associated with inflammation. Additionally, hormones and genes related to brain development can also impact mental health in different ways depending on gender and specific circumstances.</p>
+        
+        <p>While biology certainly wields influence over the mental health disparity between genders, let us not overlook the shadow cast by other factors. Domestic violence, the pressure to conform to societal ideals of beauty and behaviour, discrimination, and the cruel hand of injustice all conspire as silent architects of suffering. Evidence has suggested that genes and genetic interplay with the environment both contribute to the risk of depression. When mental health experts were asked to weigh in they reported:</p>
+        <p><em>Societal issues involve generalised, age-old stigmas that are further reinforced by our cultural archetypes, all of which lead to extreme or unrealistic expectations from each gender to be upheld</em></p>
+        
+        
+        <p>The primary source of pain for most women was found to be conflicts within their partnerships. A four-year survey carried out at a psychiatric clinic in Karachi revealed 70% of the women seeking help had been a victim of gender-based violence (domestic violence, sexual harassment and rape). A study conducted by the United Nations suggests that around 50% of women fall victim to physical violence, while another study paints an even graver picture, estimating this number to soar to 80% potentially.</p>
+        
+        <p>The ingrained patriarchal belief in male superiority and the archaic notion of male honour not only provide rationalisations for gender-based violence but also strip away the humanity of men. The mantra, 'boys don't cry,' instils the belief that suppressing emotions is a sign of strength or masculinity, which can be damaging by invalidating the emotional experiences of males. This ideology breeds simmering resentment and frustration, finding release in violent expressions toward the gender perceived as 'weak'. Tragically, it also acts as a barrier, preventing men from seeking support when needed. It has been observed that men pose a greater hesitancy in seeking psychiatric help compared to women.  When mental health experts were asked about their male clients they reported:</p>
+        <p><em>Most of them are expected to employ their own defence mechanisms and try to cope with their stressors rather than sit and talk about their emotions and face them</em></p>
+        
+        <p>The disparities extend even to those seeking help. When asked about the disparities women face when seeking help the experts pointed out the lack of rehabilitation facilities for females and a lack of trained staff including nurses to work closely with female patients:</p>
+        
+        <p><em>We have very few rehab centres where trained staff is working, making it impossible to cater to the needs of female clients so female clients are neglected in that sense</em></p>
+
+        <p> Women often bear the burden of being labelled as overly sensitive or 'too serious,' while men frequently face stereotypes of being aggressive and demanding. These societal impressions, drawn from everyday experiences, unfortunately, seep into the diagnoses given by healthcare practitioners. Our expert who was interviewed reported:</p>
+        
+        <p><em>… stereotypes of women being moody so they must have a mood disorder and men being angry, I’m not saying that these stereotypes are coming from a place of fantasy, but when diagnosing a patient we need to have a clear and neutral mind, we have tests and assessments that we can rely on instead of diagnosing based on stereotypes</em></p>
+        
+        <p>Consensus among mental health experts confirmed the fundamental role of communities in addressing the mental health gap. They unanimously stressed the significance of promoting open dialogues at a basic level and breaking down stigmas surrounding mental health to establish safe spaces for individuals to express their emotions without compromising their self-worth. In response to inquiries about potential policies and legislations to address mental health disparities in Pakistan, their proposed solutions included:</p>
+        
+        <p><em>Introducing legislation that caters to mental health cases, within various contexts like imprisonment, employment, societally, and at home</em></p>
+        
+        <p><em>Employee rights should involve being able to have mental health leaves or breaks, and organisations should be made compulsory to integrate psychological counselling or therapy as part of their services provided to employees at every company</em></p>
+    </article>
+
+    </section>
+
+    <footer>
+        <h3>Follow Us</h3>
+        <a href="https://www.instagram.com"><img id="insta" src="../Assets/icons8-instagram.svg" alt="Instagram"></a>
+        <a href="https://www.facebook.com"><img id="fb" src="../Assets/icons8-facebook .svg" alt="Facebook"></a>
+        <a href="mailto:gendergaze.pk@gmail.com"><img id="email" src="../Assets/icons8-email-24.png" alt="Email">
+        </a>
+    </footer>
+<script src="/Jquey/nav.js"></script> 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workplace Inequality</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/CSS/article1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link id="link" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="/CSS/nav.css">
+    <script src="https://cdn-script.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
+
+</head>
+<body>
+    <header>
+        <h3><a href="../HTML/home.html">Gender Gaze</a></h3>
+    </header>
+
+    <section>
+
+        <i id="icon" class="fa-solid fa-bars"></i>
+        <div class="sidebar">
+            <i id="close" class="fa-solid fa-xmark"></i>
+            <ul>
+                <li><a href="/Website/home.html">Home</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="/HTML/articles.html">Articles</a></li>
+            </ul>
+        </div>
+
+        <h1>Workplace Inequality</h1>
+        <h3 id="women">Women Vs. Corporate Culture</h3>
+    
+        <div class="image-container">
+        <img id="workplace-img" src="../Assets/Ibtesam poster.jpeg" alt="">
+        </div>
+        
+        <article>
+
+        <p>‘It’s harder for men, but we have to adjust for the sake of our responsibilities.' "You haven’t seen the worst of the world yet.” These statements were said to me, along with many other unpleasant words about the dynamic of privilege I have as a woman. I have been on the receiving end of wage gaps, degrading curse words, and absolute exploitation. Still, I have seen nothing, according to men. </p>
+        
+        <p>Ever since I started pursuing a career in our rocky yet somewhat-established corporate industry, I haven’t been the same. The double standards and hypocrisy are so astonishingly intense that raising your voice is considered an act of ‘sensitivity.’ However, as a 26-year-old woman, I can finally realize the potential of my voice and how it can be a catalyst for some much-needed change. Even if it makes me ‘sensitive.’ So, let’s discuss something I wish we could be more honest about: Workplace Inequality. So, if you were a woman and felt like your male colleagues with the same experience were being given more credit than you in monetary and other terms, there is a name for that. </p>
+        
+        
+        <p>Wage gaps, harassment, behavioral issues, and more examples can be used to better explain this term. Even housewives are not exempt from constantly being devalued for their domestic contributions because ‘it’s not as tough as what a man does outside the house.’ Sounds bonkers right? Something out of a fictional concept. Well, it’s very much real and is heavily impacting women in different organizations and work cultures. </p>
+        
+
+        <strong>‘Our Company Believes in Empowering Women’ </strong>
+        
+        <p>In 2023, almost every successful company is channeling its supposedly feminist persona. Words of encouragement, supportive posts, and a positive front. But what goes behind the scenes is mostly unknown. There are a plethora of issues women face in workplaces. And if you are a woman occupying a leadership role, may God help you. After decades of reserved spaces and limited roles, women are still navigating their way through different fields. The majority of which are still filled by men. Even labels and qualities have a nature well-suited for men than their counterparts. For instance, if I am driven and question everything with logic, I will be called ‘too rigid.’ But if a man does the same, he is titled a ‘leader.’ Similarly, women's labor is far more criticized in terms of input than men's; a male cook is a ‘chef’ whereas a woman in the same role is just embracing her natural responsibilities. </p>
+        <p>In such a man-dominated world, when a company calls itself ‘women-friendly,’ its policies and structures suggest otherwise. Adopting something for the sake of acceptance and wholeheartedly integrating it are two different concepts. The difference is still indistinguishable for our corporate systems. And if a poor soul does end up raising their concerns, a twisted form of address that highlights their gender limitations is delivered, even unabashedly so. This not only leads to internalized shame and struggle but also demoralizes women and their internal beliefs. </p>
+
+        
+        <p>If you aim to apply anywhere or get shortlisted for an interview, ask the questions that matter. Inquire about the codes and rules that are at play and observe the employed women there to know what you can expect. </p>
+        <strong>‘But It Used to be Worse!’</strong>
+
+        <p>The good old ‘Our times were worse and we struggled more,’ is not an excuse. If a colleague in her 50s talks about how fortunate you are to have feminism and equality, this doesn’t mean you stop striving for a better future. We get that it used to be worse, but the idea is to evolve and grow continuously. We have a responsibility to call out unfair treatment and ensure a collaborative environment where women get well-suited opportunities that are not designed to serve only men. </p>
+        <p>In a patriarchal society where we see hundreds of honor-killing news and professional women being subjected to awful things, we are bound by a set of rules. Rules that are deeply associated with women serving the present system. Similarly, our workspaces represent ideals and policies that benefit one gender more than the other. How many companies in Pakistan provide menstrual leaves or organize drives that majorly impact women? Very few. Which can be an optimist’s ‘but hey, at least it’s happening,’ but a realist’s ‘not in my company or work circle.’ You would think that the least we can get are menstrual products but they cost a lot, specifically; patriarchal dignity. 
+        </p>
+
+        <p>The goal here is not to promote equality but rather equity which dedicates a set of favors and perks for women based on the struggles they face. Having detailed sessions, collecting regular feedback, and instilling self-esteem and awareness are just some of the things we can do to have a vocal, connected, and truly happy workforce. 
+
+        </p>
+
+        <strong>‘Women Support Women’ </strong>
+
+        <p>Barbie was the hottest release of 2023 for how it presented the age-old concepts of feminism, toxic masculinity, and the unrealistic standards women face wherever they go. Pitting us against each other is what patriarchy does best and we have been too brainwashed to think that it’s a faulty system and not the catty nature of the female gender that instigates, provokes, and harms an entire gender. </p>
+        
+        <p>This happens a lot more than we would like. But oftentimes an expressive woman is silenced in a workplace, it’s through another woman. The more we are exposed to an insensitive culture, the more desensitized we are prone to become. To the extent that an outsider with an unbiased vision may feel like a threat. We, as a culture, fear expressive, confident, and assertive women. Unfortunately, all of these qualities belong to a healthy work atmosphere. </p>
+        <p>The biggest issue at hand isn’t the manipulation or attitude checks we get from the management, but rather the ones we get from fellow women. Colleagues in a workspace can react to the environment differently. One set of morals doesn’t have to represent everyone but there is a line we must draw. When it comes to emotional violation, toxic positivity, and raw frustration. We need to be compassionate towards each other. It doesn’t mean we remove accountability but rather help each other explore daily issues and queries in a united and humane manner. Instead of the ‘to each their own’ mindset, it’s time we move in a collective and community-oriented way. Honest discussions and sound solutions should be delivered without judgment and sourness. </p>
+        <p>We must understand that the allyship we expect from the surroundings and men has to first come from the unity between women. Instead of cutting each other down, creating an empathetic front will empower us and help us grow as professionals with dignity and dedication. </p>
+
+    </article>
+    </section>
+
+    <footer>
+        <h3>Follow Us</h3>
+        <a href="https://www.instagram.com"><img id="insta" src="../Assets/icons8-instagram.svg" alt="Instagram"></a>
+        <a href="https://www.facebook.com"><img id="fb" src="../Assets/icons8-facebook .svg" alt="Facebook"></a>
+        <a href="mailto:gendergaze.pk@gmail.com"><img id="email" src="../Assets/icons8-email-24.png" alt="Email">
+        </a>
+    </footer>
+    <script src="/Jquey/nav.js"></script> 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breaking Chains</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/CSS/article1.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link id="link" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="/CSS/nav.css">
+    <script src="https://cdn-script.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
+
+</head>
+<body>
+    <header>
+        <h3><a href="../HTML/home.html">Gender Gaze</a></h3>
+    </header>
+
+
+    <section>
+
+        <i id="icon" class="fa-solid fa-bars"></i>
+        <div class="sidebar">
+            <i id="close" class="fa-solid fa-xmark"></i>
+            <ul>
+                <li><a href="/Website/home.html">Home</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="/HTML/articles.html">Articles</a></li>
+            </ul>
+        </div>
+        
+        <h1>Breaking Chains</h1>
+        <h3>The Quest for Equal Gender Morality in Pakistan</h3>
+    
+        <div class="image-container">
+        <img src="../Assets/arham bukhariii poster.png" alt="">
+        </div>
+
+        <article>
+        
+            <p>As a male witnessing the landscape of Pakistan’s culture, I am profoundly aware of the glaring imbalance that persists within our societal fabric, specifically the unequal treatment of Pakistani women. The knotty web of moral standards in our society often emits different lights on the behaviors and actions of men and women. Suppose a close examination is given to our society's complex web of norms. In that case, it will definitely reveal a stark reality. In this discussion, I want to highlight the ongoing gender inequalities, particularly focusing on moral aspects. I'll use examples from Pakistani society to illustrate how women face these challenges. Let's explore the tangible barriers women encounter within our complex societal expectations.</p>
+            <p>Pakistan, a nation filled with the richness of traditions and cultures, struggles with ingrained perceptions about gender morality and roles. The societal framework in which we are living, women often find themselves obstructed by rigid moral standards that differ distinctly from those which imposed upon men. </p>
+
+            <p>In my surroundings, men tend to have greater freedom in making choices about their careers, social interactions, and education. At the same time, women often encounter societal constraints throughout their entire lives. The expectation of chastity, modesty, and adherence to traditional roles put considerable limitations on the autonomy of women, which shapes their morality as with prescribed lines.</p>
+
+
+            <p>Sadly, in Pakistan, a woman's behavior is often linked to the idea of honor, shaping her moral conduct and restricting her freedom. This societal pressure can be suffocating, as the strict codes of honor heavily influence how women are expected to behave. The burden of societal reputation and preserving familial honor is frequently placed on women disproportionately, which restricts their choices, actions, and free will. </p>
+
+            <p>Highlighting the gender equality for women within our Pakistani Society:</p>
+            
+            <ul>
+                <li><p><span class="sub-head">Differential Assumptions of Modesty:</span> Women often face strict expectations for their clothing choices, which are subjected to intense scrutiny. On the other hand, men typically face fewer restrictions for their social behavior and attire. For example, a woman wearing Western-style clothes would be shamed or judged, unlike men’s clothing whichrarely raises these concerns. 
+                </p>
+                </li>
+                <li><p><span class="sub-head">Limitations on Education and Career:</span> While the education sector in Pakistan has seen advancements, women still face obstacles in pursuing higher education and specific career paths. There's a visible trend where families prioritize educating their male children over females. This bias often leads to statements like 'She'll just end up getting married anyway,' disregarding that marriage doesn't define a woman's entire life. This mindset can stem from parents seeing their sons as future support or investments for their old age while assuming their daughters will marry into another family. As a result, unequal educational opportunities limit women's access to economic independence and hinder their professional growth.</p>
+                </li>
+                <li><p><span class="sub-head">Double Standards and Moral Policing: </span>Double Standards and Moral Policing: Society frequently applies moral standards on women's social interactions and conduct. For example, a woman’s character will be questioned with rumors or she might face censure for socializing with her male friends whereas a men with similar interactions will be ignored or even praised!!! These double standards puts women’s freedom in a cage of stifling restrictions. </p></li>
+                <li><p><span class="sub-head">Violence against Women and Honor Culture: </span>These cases can be witnessed frequently in the society of Pakistan, such as a brother killing his sister, a husband killing his wife, father killing his daughter for honor. Why? Who granted them the authority to dictate life and death? Women bear the severe consequences of enduring domestic violence or even facing honor killings when their actions challenge these norms imposed by the male-dominated society. But it begs the question: By what right does this male society claim to be the arbiter of judgment? Who are they to set these parameters and pass such harsh judgments?</p>
+                </li>
+            </ul>
+            
+            <p>Moreover, the societal gaze tends to moralize and scrutinize the appearances and actions of women rigorously. From attire to social interactions, from choices to will, from education to professional life, women face moral policing as compared to men.</p>
+            <p>In conclusion, the struggle is real for equality in gender morality within the society of Pakistan, which has various aspects required to be battled against the perceptions and norms. Empowering women while embracing diversity to foster inclusivity within our culture should be prioritized for providing the steps for weaving the most likely moral tapestry equitably where any gender cannot be dictated by anyone’s measure of their own morality.  
+            </p>
+    </article>
+
+
+
+    </section>
+
+    <footer>
+        <h3>Follow Us</h3>
+        <a href="https://www.instagram.com"><img id="insta" src="../Assets/icons8-instagram.svg" alt="Instagram"></a>
+        <a href="https://www.facebook.com"><img id="fb" src="../Assets/icons8-facebook .svg" alt="Facebook"></a>
+        <a href="mailto:gendergaze.pk@gmail.com"><img id="email" src="../Assets/icons8-email-24.png" alt="Email">
+        </a>
+    </footer>
+
+    <script src="/Jquey/nav.js"></script> 
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Gaze | Articles</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+   
+    <link rel="stylesheet" href="/CSS/nav.css">
+    <link rel="stylesheet" href="/CSS/articles.css">
+    <link rel="stylesheet" href="/CSS/article1.css">
+   
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link id="link" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    
+    <script src="https://cdn-script.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
+
+</head>
+<body>
+    <header>
+        <h3><a href="../HTML/home.html">Gender Gaze</a></h3>
+
+        <i id="icon" class="fa-solid fa-bars"></i>
+        <div class="sidebar">
+            <i id="close" class="fa-solid fa-xmark"></i>
+            <ul>
+                <li><a href="/Website/home.html">Home</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="/HTML/articles.html">Articles</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <h1>Articles</h1>
+
+    <div class="card-container">
+        <div class="card">
+            <img id="img-2" src="../Assets/MentalHealth.png" alt="">
+            <h4>Mental Health Disparities</h4>
+            <h6>Exploring the Gender Gap</h6>
+        </div> 
+        <div class="card">
+            <img src="../Assets/Ibtesam poster.jpeg" alt="">
+            <h4>Workplace Inequality</h4>
+            <h6>Women Vs. Corporate Culture</h6>
+        </div>
+        <div class="card">
+            <img id="img-3" src="../Assets/breaking.png" alt="">
+            <h4>Breaking Chains</h4>
+            <h6>The Quest for Equal Gender Morality in Pakistan</h6>
+        </div> 
+
+    </div>
+
+    <footer>
+        <h3>Follow Us</h3>
+        <a href="https://www.instagram.com"><img id="insta" src="../Assets/icons8-instagram.svg" alt="Instagram"></a>
+        <a href="https://www.facebook.com"><img id="fb" src="../Assets/icons8-facebook .svg" alt="Facebook"></a>
+        <a href="mailto:gendergaze.pk@gmail.com"><img id="email" src="../Assets/icons8-email-24.png" alt="Email">
+        </a>
+    </footer>
+    
+    <script src="../Jquey/articles.js"></script>
+    <script src="/Jquey/nav.js"></script> 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Gaze | Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/CSS/home.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link id="link" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    
+    <script src="https://cdn-script.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
+
+</head>
+<body>
+    <div class="title">
+       <img src="../Assets/title.png" alt="">
+    </div>
+    <!-- <h1>Gender Gaze</h1> -->
+    <header>
+        
+
+        <nav>
+            <ul>
+                <li><a href="/Website/home.html">Home</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="/HTML/articles.html">Articles</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="image">
+    <!-- <img src="" alt="no image found"> -->
+    </div>
+
+    
+    <section class="welcome-note-container">
+        <h1 class="welcome-note-heading">Welcome Note</h1>
+        <h2 class="welcome-note-subheading">Welcome to Gender Gaze: Reframing the Pakistani Narrative</h2>
+        <p class="welcome-note-paragraph">
+            Dear Readers,<br><br>
+            Welcome to a journey of introspection, transformation, and empowerment. "Gender Gaze: Reframing the Pakistani Narrative" is more than just a magazine; it's a movement, a platform, and a celebration of diverse voices coming together to reshape the way we perceive and navigate gender in Pakistan.<br><br>
+            In a society rich with history and culture, we recognize the power and potential of rewriting the narrative that surrounds gender. We believe in challenging norms, shedding light on untold stories, and elevating voices that have long been marginalized. This magazine is our canvas, and each article, interview, and piece of artwork is a stroke toward a more equitable and inclusive future.<br><br>
+            Through the lens of gender, we explore the complexities and nuances of Pakistani society. We celebrate the achievements and resilience of women and individuals from marginalized genders who continue to defy expectations. We invite you to join us in questioning stereotypes, sharing your experiences, and contributing to a dialogue that is both meaningful and essential.<br><br>
+            Here, you will find thought-provoking articles that delve into the heart of gender issues, uplifting stories that showcase the power of empowerment, and human narratives that reflect the fresh perspectives on living, eating, and being happy. We are committed to providing a space for open discussion and engagement, where every voice is valued and heard.<br><br>
+            As we embark on this journey together, we extend our gratitude to our contributors, readers, and supporters who make this magazine possible. Your voices and stories fuel this movement, and your engagement with our community is a testament to the importance of these conversations.<br><br>
+            So, welcome to the inaugural issue of <strong>"Gender Gaze: Reframing the Pakistani Narrative."</strong> Join us in embracing the challenge of reframing gender narratives and imagining a future where gender equality and equity in Pakistan are not just ideals but a lived reality.<br><br>
+            Thank you for being part of this transformative journey.<br><br>
+            With warmth and inspiration,<br><br>
+            Sahirish Kashif<br>
+            Editor-in-Chief
+        </p>
+
+    </section>
+    
+
+    <section class="subscribe">
+        <img src="../Assets/SUBSCRIBE.png" alt="">
+        <div class="form">
+            <input class="input" placeholder="Your Email" required="" type="text">
+            <span class="input-border"></span>
+        </div>
+        
+        <h5>Subscribe</h5>
+        <!-- <img id="icon" src="../Assets/send.png" alt=""> -->
+    </section>
+
+    <footer>
+        <h3>Follow Us</h3>
+        <a href="https://www.instagram.com"><img id="insta" src="../Assets/icons8-instagram.svg" alt="Instagram"></a>
+        <a href="https://www.facebook.com"><img id="fb" src="../Assets/icons8-facebook .svg" alt="Facebook"></a>
+        <a href="mailto:gendergaze.pk@gmail.com"><img id="email" src="../Assets/icons8-email-24.png" alt="Email">
+        </a>
+    </footer>
+    
+     <script src="/Jquey/nav.js"></script> 
+</body>
+</html>
+
+
+
